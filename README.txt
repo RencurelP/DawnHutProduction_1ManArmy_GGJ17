@@ -1,0 +1,1 @@
+Only player 1 has been coded and the only controls implemented are controller commands.
